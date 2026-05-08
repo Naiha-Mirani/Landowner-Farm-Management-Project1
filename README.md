@@ -56,7 +56,7 @@ FarmSystem/
 │   │   ├── Crop.java
 │   │   ├── Assignment.java
 │   │   └── Payment.java
-│   └── dao/
+│   └── dao/                          ← Data Access Object
 │       ├── LandownerDAO.java         ← CRUD for LANDOWNER table
 │       ├── WorkerDAO.java            ← CRUD for WORKER table
 │       ├── FieldDAO.java             ← CRUD for FIELD table
