@@ -17,8 +17,6 @@ A **Farm Management System** developed in Java using Object-Oriented Programming
 | **Student ID (CMS)** | 023-25-0084 |
 | **Section** | BSCS-D |
 
-> This is an **individual project**.
-
 ---
 
 ## 🎯 Purpose
