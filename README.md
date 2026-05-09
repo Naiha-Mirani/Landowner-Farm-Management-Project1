@@ -190,7 +190,7 @@ java -cp "classFiles;lib\mysql-connector-j-9.6.0.jar" Mainnn
 
 | Resource | Link |
 |---|---|
-| 📂 GitHub Repository | https://github.com/Naiha-Mirani/Landowner-Farm-Management-Project |
+| 📂 GitHub Repository | https://github.com/Naiha-Mirani/Landowner-Farm-Management-Project1 |
 | 🎥 Demo Video (YouTube) | https://youtu.be/OdcfoniwNVs |
 
 ---
